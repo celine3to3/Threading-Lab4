@@ -17,3 +17,4 @@ Output of program:
 ![plot output](https://user-images.githubusercontent.com/121079918/210127790-dab79da7-48e2-492f-a946-5167d440da6f.png)
 
 Preview of database:
+![database preview lab4](https://user-images.githubusercontent.com/121079918/210127920-d75836b8-5bd7-4b20-ba33-bf84e9c24982.png)
