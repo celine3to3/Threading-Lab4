@@ -5,7 +5,9 @@ Create 6 threaded agents for the Global Radiative Forcing annual values. These a
 
 Threading rules:
   Only one threaded agent can access the database at a time. 
+
   The database inquiry only requests one cell of data per request. 
+
   The agents must make repeated requests for yearly data. 
   
 After collecting the data, plot the liner regression for each gas using either Matplotlib or Plotly.
