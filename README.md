@@ -13,7 +13,7 @@ Threading rules:
   
 After collecting the data, 6 plots pop up to display the linear regression for each gas using Matplotlib.
 
-# Program output
+# Program Output
 ![plot output](https://user-images.githubusercontent.com/121079918/210127790-dab79da7-48e2-492f-a946-5167d440da6f.png)
 
 # Database Preview
